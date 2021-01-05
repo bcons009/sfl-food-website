@@ -1,0 +1,2 @@
+# sfl-food-website
+A proof-of-concept project for a website listing food banks and food pantries primarily in Miami-Dade and Broward Counties in the state of Florida. Also allows for users to create their own charity events to be advertised on the site, as well as an unfinished reviews implementation. This project was created for Professor Monique Ross's Advanced Software Engineering (CEN5011) class at Florida International University, and was worked on throughout the majority of the Fall 2020 semester.
